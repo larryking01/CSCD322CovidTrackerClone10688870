@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A Covid19 Mobile Tracker Application"
   }
 }

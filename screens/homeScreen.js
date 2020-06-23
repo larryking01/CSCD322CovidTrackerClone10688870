@@ -7,8 +7,6 @@ import covid2 from '../static_files/covid2.jpg';
 //importing the date.format library.
 
 
-
-
 //the functional component.
 export default function HomeScreen(props) {
     //the date.
