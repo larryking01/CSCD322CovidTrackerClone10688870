@@ -1,4 +1,6 @@
 # CSCD322CovidTrackerClone10688870
+STUDENT INDEX NUMBER: 10688870
+
 This is the repository for the source code of the covid19 mobile application required in the exams.
 
 The credentials for the published application are shown as follows:
